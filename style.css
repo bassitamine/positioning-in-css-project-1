@@ -1,0 +1,31 @@
+.div1{
+    background-color: rebeccapurple;
+    height: 60px;
+    margin-bottom: 90px ;
+    position: fixed;
+    width: 400%;
+    top: 500px;
+    opacity: 0.9;
+}
+.div2{
+    background-color: black;
+    height: 50px;
+    margin-bottom: 50px;
+    position: static;
+    width: 500%;
+    top: 900px;
+}
+.div3{
+    background-color: darkblue;
+    height: 70px;
+    position: relative;
+    left: 100px;
+    top: 40px;
+}
+p{
+    position: relative;
+    top:0;
+}
+body{
+    height: 300vh;
+}
